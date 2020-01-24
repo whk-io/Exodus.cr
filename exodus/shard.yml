@@ -1,0 +1,13 @@
+name: exodus
+version: 0.2.3
+
+authors:
+  - Hunter Kirk <whk@whk.io>
+
+targets:
+  exodus:
+    main: src/exodus.cr
+
+crystal: 0.32.1
+
+license: MIT

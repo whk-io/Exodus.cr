@@ -1,0 +1,9 @@
+# Exodus.cr
+
+Exodus Python Linux binary packager ported to Crystal
+
+root Makefile sets up the development environment
+
+./exodus/Makefile
+
+Contains the build setup and proof of concept tools
